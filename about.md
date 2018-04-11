@@ -12,4 +12,4 @@ This is meant to be a catalog for mini-posts and references about my talks and o
 
 ### Contact me
 
-[dan@domain.com](mailto:dan@domain.com)
+[dan@domain.com](mailto:dan@danulab.com)
